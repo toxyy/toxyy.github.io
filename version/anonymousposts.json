@@ -1,6 +1,6 @@
 {
-    "stable": {
-        "1.0": {
+    "unstable": {
+        "0.1": {
             "current": "0.1.0",
             "announcement": "https://github.com/toxyy/anonymousposts/tree/version-0.1.0",
             "download": "https://github.com/toxyy/anonymousposts/archive/version-0.1.0.zip",
