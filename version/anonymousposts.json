@@ -1,11 +1,10 @@
 {
-		"unstable": {
-				"0.1": {
-					"current": "0.1.0",
-					"announcement": "https://github.com/toxyy/anonymousposts/tree/version-0.1.0",
-					"download": "https://github.com/toxyy/anonymousposts/archive/version-0.1.0.zip",
-					"eol": null,
-					"security": false
-				}
+	"unstable": {
+		"0.1": {
+			"current": "0.1.0",
+			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2470526",
+			"eol": null,
+			"security": false
 		}
+	}
 }
