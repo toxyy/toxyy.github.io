@@ -1,9 +1,9 @@
 {
 		"unstable": {
 				"0.1": {
-					"current": "0.2.0",
-					"announcement": "https://github.com/toxyy/anonymousposts/tree/version-0.2.0",
-					"download": "https://github.com/toxyy/anonymousposts/archive/version-0.2.0.zip",
+					"current": "0.3.0",
+					"announcement": "https://github.com/toxyy/anonymousposts/tree/version-0.3.0",
+					"download": "https://github.com/toxyy/anonymousposts/archive/version-0.3.0.zip",
 					"eol": null,
 					"security": false
 				}
