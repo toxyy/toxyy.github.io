@@ -1,7 +1,7 @@
 {
 		"stable": {
-				"0.5.0": {
-					"current": "0.5.0",
+				"0.5.1": {
+					"current": "0.5.1",
 					"announcement": "https://github.com/toxyy/anonymousposts/tree/version-0.5.0",
 					"download": "https://github.com/toxyy/anonymousposts/archive/version-0.5.0.zip",
 					"eol": null,
@@ -9,8 +9,8 @@
 				}
 		},
 		"unstable": {
-				"0.5.0": {
-					"current": "0.5.0",
+				"0.5.1": {
+					"current": "0.5.1",
 					"announcement": "https://github.com/toxyy/anonymousposts/tree/version-0.5.0",
 					"download": "https://github.com/toxyy/anonymousposts/archive/version-0.5.0.zip",
 					"eol": null,
