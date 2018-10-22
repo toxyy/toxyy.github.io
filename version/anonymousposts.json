@@ -1,18 +1,18 @@
 {
 		"stable": {
-				"0.7.5": {
-					"current": "0.7.5",
-					"announcement": "https://github.com/toxyy/anonymousposts/tree/version-0.7.0",
-					"download": "https://github.com/toxyy/anonymousposts/archive/version-0.7.0.zip",
+				"0.8.0": {
+					"current": "0.8.0",
+					"announcement": "https://github.com/toxyy/anonymousposts/tree/version-0.8.0",
+					"download": "https://github.com/toxyy/anonymousposts/archive/version-0.8.0.zip",
 					"eol": null,
 					"security": false
 				}
 		},
 		"unstable": {
-				"0.7.5": {
-					"current": "0.7.5",
-					"announcement": "https://github.com/toxyy/anonymousposts/tree/version-0.7.0",
-					"download": "https://github.com/toxyy/anonymousposts/archive/version-0.7.0.zip",
+				"0.8.0": {
+					"current": "0.8.0",
+					"announcement": "https://github.com/toxyy/anonymousposts/tree/version-0.8.0",
+					"download": "https://github.com/toxyy/anonymousposts/archive/version-0.8.0.zip",
 					"eol": null,
 					"security": false
 				}
