@@ -1,18 +1,18 @@
 {
 		"stable": {
-				"1.0.0": {
-					"current": "1.0.0",
-					"announcement": "https://github.com/toxyy/showuseractivity/tree/version-1.0.0",
-					"download": "https://github.com/toxyy/showuseractivity/archive/version-1.0.0.zip",
+				"1.0.1": {
+					"current": "1.0.1",
+					"announcement": "https://github.com/toxyy/showuseractivity/tree/version-1.0.1",
+					"download": "https://github.com/toxyy/showuseractivity/archive/version-1.0.1.zip",
 					"eol": null,
 					"security": false
 				}
 		},
 		"unstable": {
-				"1.0.0": {
-					"current": "1.0.0",
-					"announcement": "https://github.com/toxyy/showuseractivity/tree/version-1.0.0",
-					"download": "https://github.com/toxyy/showuseractivity/archive/version-1.0.0.zip",
+				"1.0.1": {
+					"current": "1.0.1",
+					"announcement": "https://github.com/toxyy/showuseractivity/tree/version-1.0.1",
+					"download": "https://github.com/toxyy/showuseractivity/archive/version-1.0.1.zip",
 					"eol": null,
 					"security": false
 				}
