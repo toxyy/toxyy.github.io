@@ -1,0 +1,20 @@
+{
+		"stable": {
+				"1.0.1": {
+					"current": "1.0.1",
+					"announcement": "https://codeload.github.com/toxyy/stickyad/zip/1.0.1",
+					"download": "https://codeload.github.com/toxyy/stickyad/zip/1.0.1.zip",
+					"eol": null,
+					"security": false
+				}
+		},
+		"unstable": {
+				"1.0.1": {
+					"current": "1.0.1",
+					"announcement": "https://codeload.github.com/toxyy/stickyad/zip/1.0.1",
+					"download": "https://codeload.github.com/toxyy/stickyad/zip/1.0.1.zip",
+					"eol": null,
+					"security": false
+				}
+		}
+}
