@@ -1,0 +1,20 @@
+{
+		"stable": {
+				"1.0.0": {
+					"current": "1.0.0",
+					"announcement": "https://codeload.github.com/toxyy/recentpostlist/zip/1.0.0",
+					"download": "https://codeload.github.com/toxyy/recentpostlist/zip/1.0.0.zip",
+					"eol": null,
+					"security": false
+				}
+		},
+		"unstable": {
+				"1.0.0": {
+					"current": "1.0.0",
+					"announcement": "https://codeload.github.com/toxyy/recentpostlist/zip/1.0.0",
+					"download": "https://codeload.github.com/toxyy/recentpostlist/zip/1.0.0.zip",
+					"eol": null,
+					"security": false
+				}
+		}
+}
