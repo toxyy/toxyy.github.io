@@ -1,18 +1,18 @@
 {
 		"stable": {
-				"0.0.1": {
-					"current": "0.0.1",
-					"announcement": "https://github.com/toxyy/postformtemplates/tree/version-0.0.1",
-					"download": "https://github.com/toxyy/postformtemplates/archive/version-0.11.1.zip",
+				"0.0.2": {
+					"current": "0.0.2",
+					"announcement": "https://github.com/toxyy/postformtemplates/tree/version-0.0.2",
+					"download": "https://github.com/toxyy/postformtemplates/archive/version-0.0.2.zip",
 					"eol": null,
 					"security": false
 				}
 		},
 		"unstable": {
-				"0.0.1": {
-					"current": "0.0.1",
-					"announcement": "https://github.com/toxyy/postformtemplates/tree/version-0.0.1",
-					"download": "https://github.com/toxyy/postformtemplates/archive/version-0.0.1.zip",
+				"0.0.2": {
+					"current": "0.0.2",
+					"announcement": "https://github.com/toxyy/postformtemplates/tree/version-0.0.2",
+					"download": "https://github.com/toxyy/postformtemplates/archive/version-0.0.2.zip",
 					"eol": null,
 					"security": false
 				}
